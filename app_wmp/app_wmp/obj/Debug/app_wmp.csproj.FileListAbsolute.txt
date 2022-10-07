@@ -1,0 +1,16 @@
+C:\Users\Ngtinh\source\repos\app_wmp\app_wmp\bin\Debug\app_wmp.exe.config
+C:\Users\Ngtinh\source\repos\app_wmp\app_wmp\bin\Debug\app_wmp.exe
+C:\Users\Ngtinh\source\repos\app_wmp\app_wmp\bin\Debug\app_wmp.pdb
+C:\Users\Ngtinh\source\repos\app_wmp\app_wmp\obj\Debug\app_wmp.csproj.AssemblyReference.cache
+C:\Users\Ngtinh\source\repos\app_wmp\app_wmp\obj\Debug\app_wmp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ngtinh\source\repos\app_wmp\app_wmp\obj\Debug\app_wmp.MainForm.resources
+C:\Users\Ngtinh\source\repos\app_wmp\app_wmp\obj\Debug\app_wmp.Properties.Resources.resources
+C:\Users\Ngtinh\source\repos\app_wmp\app_wmp\obj\Debug\app_wmp.csproj.GenerateResource.cache
+C:\Users\Ngtinh\source\repos\app_wmp\app_wmp\obj\Debug\app_wmp.csproj.CoreCompileInputs.cache
+C:\Users\Ngtinh\source\repos\app_wmp\app_wmp\obj\Debug\app_wmp.exe
+C:\Users\Ngtinh\source\repos\app_wmp\app_wmp\obj\Debug\app_wmp.pdb
+C:\Users\Ngtinh\source\repos\app_wmp\app_wmp\bin\Debug\Interop.WMPLib.dll
+C:\Users\Ngtinh\source\repos\app_wmp\app_wmp\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Ngtinh\source\repos\app_wmp\app_wmp\obj\Debug\Interop.WMPLib.dll
+C:\Users\Ngtinh\source\repos\app_wmp\app_wmp\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Ngtinh\source\repos\app_wmp\app_wmp\obj\Debug\app_wmp.csproj.ResolveComReference.cache
