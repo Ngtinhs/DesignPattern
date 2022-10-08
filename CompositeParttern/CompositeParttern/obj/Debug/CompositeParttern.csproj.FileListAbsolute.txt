@@ -1,0 +1,8 @@
+C:\Users\Ngtinh\source\repos\CompositeParttern\CompositeParttern\bin\Debug\CompositeParttern.exe.config
+C:\Users\Ngtinh\source\repos\CompositeParttern\CompositeParttern\bin\Debug\CompositeParttern.exe
+C:\Users\Ngtinh\source\repos\CompositeParttern\CompositeParttern\bin\Debug\CompositeParttern.pdb
+C:\Users\Ngtinh\source\repos\CompositeParttern\CompositeParttern\obj\Debug\CompositeParttern.csproj.AssemblyReference.cache
+C:\Users\Ngtinh\source\repos\CompositeParttern\CompositeParttern\obj\Debug\CompositeParttern.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ngtinh\source\repos\CompositeParttern\CompositeParttern\obj\Debug\CompositeParttern.csproj.CoreCompileInputs.cache
+C:\Users\Ngtinh\source\repos\CompositeParttern\CompositeParttern\obj\Debug\CompositeParttern.exe
+C:\Users\Ngtinh\source\repos\CompositeParttern\CompositeParttern\obj\Debug\CompositeParttern.pdb
