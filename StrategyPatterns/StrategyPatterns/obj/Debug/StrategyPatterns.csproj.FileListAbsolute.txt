@@ -1,0 +1,8 @@
+D:\workspace\Học Design Parttern\StrategyPatterns\StrategyPatterns\bin\Debug\StrategyPatterns.exe.config
+D:\workspace\Học Design Parttern\StrategyPatterns\StrategyPatterns\bin\Debug\StrategyPatterns.exe
+D:\workspace\Học Design Parttern\StrategyPatterns\StrategyPatterns\bin\Debug\StrategyPatterns.pdb
+D:\workspace\Học Design Parttern\StrategyPatterns\StrategyPatterns\obj\Debug\StrategyPatterns.csproj.AssemblyReference.cache
+D:\workspace\Học Design Parttern\StrategyPatterns\StrategyPatterns\obj\Debug\StrategyPatterns.csproj.SuggestedBindingRedirects.cache
+D:\workspace\Học Design Parttern\StrategyPatterns\StrategyPatterns\obj\Debug\StrategyPatterns.csproj.CoreCompileInputs.cache
+D:\workspace\Học Design Parttern\StrategyPatterns\StrategyPatterns\obj\Debug\StrategyPatterns.exe
+D:\workspace\Học Design Parttern\StrategyPatterns\StrategyPatterns\obj\Debug\StrategyPatterns.pdb
