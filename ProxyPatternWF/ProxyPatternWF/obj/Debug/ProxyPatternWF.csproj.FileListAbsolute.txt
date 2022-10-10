@@ -1,0 +1,11 @@
+D:\workspace\Học Design Parttern\ProxyPatternWF\ProxyPatternWF\bin\Debug\ProxyPatternWF.exe.config
+D:\workspace\Học Design Parttern\ProxyPatternWF\ProxyPatternWF\bin\Debug\ProxyPatternWF.exe
+D:\workspace\Học Design Parttern\ProxyPatternWF\ProxyPatternWF\bin\Debug\ProxyPatternWF.pdb
+D:\workspace\Học Design Parttern\ProxyPatternWF\ProxyPatternWF\obj\Debug\ProxyPatternWF.csproj.AssemblyReference.cache
+D:\workspace\Học Design Parttern\ProxyPatternWF\ProxyPatternWF\obj\Debug\ProxyPatternWF.csproj.SuggestedBindingRedirects.cache
+D:\workspace\Học Design Parttern\ProxyPatternWF\ProxyPatternWF\obj\Debug\ProxyPatternWF.MainForm.resources
+D:\workspace\Học Design Parttern\ProxyPatternWF\ProxyPatternWF\obj\Debug\ProxyPatternWF.Properties.Resources.resources
+D:\workspace\Học Design Parttern\ProxyPatternWF\ProxyPatternWF\obj\Debug\ProxyPatternWF.csproj.GenerateResource.cache
+D:\workspace\Học Design Parttern\ProxyPatternWF\ProxyPatternWF\obj\Debug\ProxyPatternWF.csproj.CoreCompileInputs.cache
+D:\workspace\Học Design Parttern\ProxyPatternWF\ProxyPatternWF\obj\Debug\ProxyPatternWF.exe
+D:\workspace\Học Design Parttern\ProxyPatternWF\ProxyPatternWF\obj\Debug\ProxyPatternWF.pdb
