@@ -1,0 +1,8 @@
+D:\workspace\Học Design Parttern\ProxyPattern\ProxyPattern\obj\Debug\ProxyPattern.csproj.AssemblyReference.cache
+D:\workspace\Học Design Parttern\ProxyPattern\ProxyPattern\obj\Debug\ProxyPattern.csproj.SuggestedBindingRedirects.cache
+D:\workspace\Học Design Parttern\ProxyPattern\ProxyPattern\obj\Debug\ProxyPattern.csproj.CoreCompileInputs.cache
+D:\workspace\Học Design Parttern\ProxyPattern\ProxyPattern\bin\Debug\ProxyPattern.exe.config
+D:\workspace\Học Design Parttern\ProxyPattern\ProxyPattern\bin\Debug\ProxyPattern.exe
+D:\workspace\Học Design Parttern\ProxyPattern\ProxyPattern\bin\Debug\ProxyPattern.pdb
+D:\workspace\Học Design Parttern\ProxyPattern\ProxyPattern\obj\Debug\ProxyPattern.exe
+D:\workspace\Học Design Parttern\ProxyPattern\ProxyPattern\obj\Debug\ProxyPattern.pdb
