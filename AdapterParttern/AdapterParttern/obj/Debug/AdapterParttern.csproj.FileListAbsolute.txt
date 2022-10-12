@@ -1,0 +1,8 @@
+D:\workspace\Học Design Parttern\AdapterParttern\AdapterParttern\bin\Debug\AdapterParttern.exe.config
+D:\workspace\Học Design Parttern\AdapterParttern\AdapterParttern\bin\Debug\AdapterParttern.exe
+D:\workspace\Học Design Parttern\AdapterParttern\AdapterParttern\bin\Debug\AdapterParttern.pdb
+D:\workspace\Học Design Parttern\AdapterParttern\AdapterParttern\obj\Debug\AdapterParttern.csproj.AssemblyReference.cache
+D:\workspace\Học Design Parttern\AdapterParttern\AdapterParttern\obj\Debug\AdapterParttern.csproj.SuggestedBindingRedirects.cache
+D:\workspace\Học Design Parttern\AdapterParttern\AdapterParttern\obj\Debug\AdapterParttern.csproj.CoreCompileInputs.cache
+D:\workspace\Học Design Parttern\AdapterParttern\AdapterParttern\obj\Debug\AdapterParttern.exe
+D:\workspace\Học Design Parttern\AdapterParttern\AdapterParttern\obj\Debug\AdapterParttern.pdb
