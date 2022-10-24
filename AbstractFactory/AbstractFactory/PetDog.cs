@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace AbstractFactory
+{
+    class PetDog : IDog
+    {
+        public void Aboutme()
+        {
+            Console.WriteLine("Cho thu cung: Toi thich suaaa");
+        }
+    }
+}

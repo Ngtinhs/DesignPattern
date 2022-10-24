@@ -1,0 +1,8 @@
+D:\workspace\Học Design Parttern\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+D:\workspace\Học Design Parttern\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe
+D:\workspace\Học Design Parttern\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.pdb
+D:\workspace\Học Design Parttern\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csproj.AssemblyReference.cache
+D:\workspace\Học Design Parttern\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csproj.SuggestedBindingRedirects.cache
+D:\workspace\Học Design Parttern\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+D:\workspace\Học Design Parttern\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.exe
+D:\workspace\Học Design Parttern\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.pdb
