@@ -1,0 +1,8 @@
+C:\Users\SV\source\repos\TemplateMethodPatttern\TemplateMethodPatttern\bin\Debug\TemplateMethodPatttern.exe.config
+C:\Users\SV\source\repos\TemplateMethodPatttern\TemplateMethodPatttern\bin\Debug\TemplateMethodPatttern.exe
+C:\Users\SV\source\repos\TemplateMethodPatttern\TemplateMethodPatttern\bin\Debug\TemplateMethodPatttern.pdb
+C:\Users\SV\source\repos\TemplateMethodPatttern\TemplateMethodPatttern\obj\Debug\TemplateMethodPatttern.csproj.AssemblyReference.cache
+C:\Users\SV\source\repos\TemplateMethodPatttern\TemplateMethodPatttern\obj\Debug\TemplateMethodPatttern.csproj.SuggestedBindingRedirects.cache
+C:\Users\SV\source\repos\TemplateMethodPatttern\TemplateMethodPatttern\obj\Debug\TemplateMethodPatttern.csproj.CoreCompileInputs.cache
+C:\Users\SV\source\repos\TemplateMethodPatttern\TemplateMethodPatttern\obj\Debug\TemplateMethodPatttern.exe
+C:\Users\SV\source\repos\TemplateMethodPatttern\TemplateMethodPatttern\obj\Debug\TemplateMethodPatttern.pdb
